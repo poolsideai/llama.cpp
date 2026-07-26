@@ -1,5 +1,7 @@
 #include "speculative.h"
 
+#include <cmath>
+
 #include "common.h"
 #include "ggml.h"
 #include "llama.h"
